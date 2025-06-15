@@ -1,6 +1,5 @@
 # Express.js with TypeScript: A Comprehensive Guide
 
-*Based on Anson's Video: "Express JS with TypeScript - Setup, Examples, Testing"*
 
 This guide walks you through setting up an Express.js application using TypeScript, covering initial setup, creating routes with examples, and incorporating testing.
 
